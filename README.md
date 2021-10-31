@@ -17,5 +17,5 @@ Imagem meramente ilustrativa, se trata apenas da execução do programa escrito 
 Trabalho de Linguagens Formais e Programação, onde o professor solicitou a implementação de um mesmo programa (simples) em 3 linguagens de programação diferentes e de tipos diferentes. Sendo que deveria haver uma linguagem de programação compilada, uma interpretada e uma híbrida. As 3 linguagens escolhidas foram respectivamente C, Python e Java. E ainda pediu que o programa seja capaz de rodar em pelo menos dois Sistemas Operacionais distintos.
 Além disso, requisitou que relatassemos cada parte do processo.
 
-# Funcionamento
+## Funcionamento
 O que faz na prática é receber uma quantidade de sequências de caracteres estipulada pelo usuário, vincula cada uma destas sequências a um número. Gera um número aleatório baseado na hora e utiliza o número gerado para selecionar a cadeia de caracteres de mesmo índice. 
